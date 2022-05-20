@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehdi Rezaei Far</h1>
 <h3 align="center">A passionate Android and web developer from IRAN</h3>
-<br><br>
+<br>
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
@@ -23,4 +23,4 @@
 
 
 <br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdirzfx&show_icons=true&locale=en&layout=compact" alt="mehdirzfx" />&nbsp;<img align="right" width="450" height="250" src="https://github-readme-stats.vercel.app/api?username=mehdirzfx&show_icons=true&locale=en" alt="mehdirzfx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdirzfx&show_icons=true&locale=en&layout=compact" alt="mehdirzfx" /><img align="left" width="450"  src="https://github-readme-stats.vercel.app/api?username=mehdirzfx&show_icons=true&locale=en" alt="mehdirzfx" /></p>
