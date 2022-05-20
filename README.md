@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
-- 📝 I regularly write articles on [https://Mehdirzfx.ir](https://Mehdirzfx.ir)
-
 - 📫 How to reach me **work.rezaeifar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
