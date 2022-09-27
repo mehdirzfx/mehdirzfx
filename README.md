@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
-- 📫 How to reach me **work.rezaeifar@gmail.com**
+- 📫 How to reach me **info@mehdirzfx.ir**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
