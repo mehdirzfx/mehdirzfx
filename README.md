@@ -1,3 +1,7 @@
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=mehdirzfx.mehdirzfx)
+[![Github](https://img.shields.io/github/followers/mehdirzfx?label=Follow&style=social)](https://github.com/mehdirzfx)
+
+
 <h1 align="center">Hi 👋, I'm Mehdi Rezaei Far</h1>
 <h3 align="center">A passionate Android and web developer from IRAN</h3>
 <br>
