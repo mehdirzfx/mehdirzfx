@@ -1,4 +1,4 @@
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=mehdirzfx.mehdirzfx)
+![Profile views](https://visitcount.itsvg.in/api?id=mehdirzfx&label=Profile%20Views&color=12&icon=0&pretty=true)
 [![Github](https://img.shields.io/github/followers/mehdirzfx?label=Follow&style=social)](https://github.com/mehdirzfx)
 
 
