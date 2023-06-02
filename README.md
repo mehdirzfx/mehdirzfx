@@ -1,4 +1,4 @@
-![Profile views](https://visitcount.itsvg.in/api?id=mehdirzfx&label=Profile%20Views&color=12&icon=0&pretty=true)
+![Profile views](https://komarev.com/ghpvc/?username=mehdirzfx)
 [![Github](https://img.shields.io/github/followers/mehdirzfx?label=Follow&style=social)](https://github.com/mehdirzfx)
 
 
