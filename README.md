@@ -5,13 +5,6 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/mehdirzfx/mehdirzfx/blob/main/assets/img/waving.gif">, I'm Mehdi Rezaei Far</h1>
 <h3 align="center">A passionate Android and web developer from IRAN</h3>
 <br>
-
-<div align="center">
-  <a href="https://mehdirzfx.ir">
-  <img  src="https://github.com/mehdirzfx/mehdirzfx/blob/main/assets/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 - 🌱 I’m currently learning **Artificial intelligence**
 
 - 📫 How to reach me **semicalon@outlook.com**
@@ -31,5 +24,9 @@
   </a>
 </p>
 
-
+<div align="center">
+  <a href="https://mehdirzfx.ir">
+  <img  src="https://github.com/mehdirzfx/mehdirzfx/blob/main/assets/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 <br><br>
